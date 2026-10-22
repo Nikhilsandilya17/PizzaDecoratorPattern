@@ -1,0 +1,6 @@
+*.class
+out/
+bin/
+*.log
+.DS_Store
+.idea/
